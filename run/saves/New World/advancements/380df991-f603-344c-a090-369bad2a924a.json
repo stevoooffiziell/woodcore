@@ -5,5 +5,11 @@
     },
     "done": false
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2022-09-06 20:14:34 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 3120
 }

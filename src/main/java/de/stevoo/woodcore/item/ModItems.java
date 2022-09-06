@@ -1,7 +1,6 @@
 package de.stevoo.woodcore.item;
 
 import de.stevoo.woodcore.WoodCore;
-import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
@@ -21,6 +20,8 @@ public class ModItems {
     public static final RegistryObject<Item> INGOT_JADE_GOLD = ITEMS.register("ingot_jade_gold",
             () -> new Item(new Item.Properties().tab(WoodCoreTab.WoodCoreTab)));
     public static final RegistryObject<Item> INGOT_REDSTONE = ITEMS.register("ingot_redstone",
+            () -> new Item(new Item.Properties().tab(WoodCoreTab.WoodCoreTab)));
+    public static final RegistryObject<Item> CLUMP_REDSTONE = ITEMS.register("clump_redstone",
             () -> new Item(new Item.Properties().tab(WoodCoreTab.WoodCoreTab)));
     public static final RegistryObject<Item> INGOT_AQUATIC = ITEMS.register("ingot_aquatic",
             () -> new Item(new Item.Properties().tab(WoodCoreTab.WoodCoreTab)));

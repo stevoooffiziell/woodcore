@@ -1,0 +1,12 @@
+{
+"type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "woodcore:block_psionic"
+      }
+    ],
+  "result": {
+    "item": "woodcore:ingot_psionic",
+    "count": 9
+  }
+}

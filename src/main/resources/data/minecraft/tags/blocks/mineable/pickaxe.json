@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "woodcore:ore_psionic",
+    "woodcore:ore_aquatic",
+    "woodcore:ore_jade",
+    "woodcore:block_psionic",
+    "woodcore:block_aquatic",
+    "woodcore:block_jade",
+    "woodcore:block_aquatic_redstone",
+    "woodcore:block_redstone_modded",
+    "woodcore:block_jade_gold"
+  ]
+}
