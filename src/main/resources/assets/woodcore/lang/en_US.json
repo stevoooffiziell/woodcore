@@ -1,0 +1,25 @@
+{
+  "item.woodcore.ingot_jade": "Jade Ingot",
+  "item.woodcore.ingot_psionic_base": "Psionic Ingot Base",
+  "item.woodcore.ingot_psionic": "Psionic Ingot",
+  "item.woodcore.ingot_redstone": "Redstone Ingot",
+  "item.woodcore.ingot_aquatic": "Aquatic Ingot",
+  "item.woodcore.ingot_aquatic_redstone": "Aquatic Redstone Ingot",
+  "item.woodcore.ingot_jade_gold": "Golden Jade Ingot",
+
+  "block.woodcore.ore_jade": "Jade Ore",
+  "block.woodcore.block_jade": "Jade Block",
+
+  "block.woodcore.ore_psionic": "Psionic Ore",
+  "block.woodcore.block_psionic": "Psionic Block",
+
+  "block.woodcore.block_redstone_modded": "Redstone Block",
+
+  "block.woodcore.block_aquatic": "Aquatic Block",
+
+  "block.woodcore.block_aquatic_redstone": "Aquatic Redstone Block",
+
+  "block.woodcore.block_jade_gold": "Golden Jade Block",
+
+  "itemGroup.WoodCoreTab": "Wood Core"
+}
